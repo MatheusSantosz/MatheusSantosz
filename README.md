@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matheus Santos, and I'm a Quality Assurance analys and I've been working in tech since 2015. I'm from Brazil.
+I'm Matheus Santos, and I'm a Quality Assurance analyst and I've been working in tech since 2015. I'm from Brazil.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/matheusSantos?style=social)](https://twitter.com/_jumpedd)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dos-santos-397004b4/)](https://www.linkedin.com/in/matheus-dos-santos-397004b4/)
