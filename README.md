@@ -20,3 +20,5 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/-matheus.santos.ciencia-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheus.santos.ciencia@gmail.com)](mailto:matheus.santos.ciencia@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@nmatheusz-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/nmatheusz/)](https://instagram.com/nmatheusz)
+[![Github Badge](https://img.shields.io/badge/-@MatheusSantosz-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/MatheusSantosz)](https://github.com/MatheusSantosz)
