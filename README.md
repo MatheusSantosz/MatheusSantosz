@@ -15,6 +15,8 @@ These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) 
+![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -25,3 +27,13 @@ These are some of the technologies and tools that I work with:
 [![Gmail Badge](https://img.shields.io/badge/-matheus.santos.ciencia-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheus.santos.ciencia@gmail.com)](mailto:matheus.santos.ciencia@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nmatheusz-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/nmatheusz/)](https://instagram.com/nmatheusz)
 [![Github Badge](https://img.shields.io/badge/-@MatheusSantosz-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/MatheusSantosz)](https://github.com/MatheusSantosz)
+
+### 📈 Stats 
+
+[![Matheus github stats](https://github-readme-stats.vercel.app/api?username=MatheusSantosz&theme=cobalt&show_icons=true)](https://github.com/MatheusSantosz/github-readme-stats)
+
+### 💡  Languages 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSantosz&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+<hr>
+
