@@ -27,7 +27,12 @@ These are some of the technologies and tools that I work with:
 [![Gmail Badge](https://img.shields.io/badge/-matheus.santos.ciencia-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matheus.santos.ciencia@gmail.com)](mailto:matheus.santos.ciencia@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nmatheusz-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/nmatheusz/)](https://instagram.com/nmatheusz)
 [![Github Badge](https://img.shields.io/badge/-@MatheusSantosz-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/MatheusSantosz)](https://github.com/MatheusSantosz)
-
+<a href="https://postman.com" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+</a> <a href="https://www.docker.com/" target="_blank"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        alt="docker" width="40" height="40" /> </a>
+</a> 
 ### 📈 Stats 
 
 [![Matheus github stats](https://github-readme-stats.vercel.app/api?username=MatheusSantosz&theme=cobalt&show_icons=true)](https://github.com/MatheusSantosz/github-readme-stats)
